@@ -3,7 +3,7 @@
 <param ve-config 
        title="Sakura"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fuji-and-sakura-royalty-free-image-144483163-1562593125.jpg?crop=1.00xw:0.752xh;0,0.236xh&resize=1200:*" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
