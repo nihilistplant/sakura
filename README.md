@@ -3,7 +3,7 @@
 <param ve-config 
        title="Sakura"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Newark_cherry_blossoms.jpg/300px-Newark_cherry_blossoms.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Newark_cherry_blossoms.jpg/300px-Newark_cherry_blossoms.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
