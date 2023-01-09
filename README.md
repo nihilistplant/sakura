@@ -26,7 +26,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 Species of flowering cherries 
                                                                                                                              
-<param ve-compare sync
+<param ve-compare curtain sync
        url="Prunus_avium.jpg">
 <param ve-compare 
        url="Prunus_serotina.jpg">    
