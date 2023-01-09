@@ -29,13 +29,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg"
-       fit="contain">
-                    
+                      
 Species of flowering cherries 
                                                                                                                              
 <param ve-compare curtain
@@ -46,6 +40,14 @@ Species of flowering cherries
        manifest="Prunus_serrulata.jpg">                                        
 <param ve-compare curtain
        manifest="Prunus_x_yedoensis.jpg">    
+                                                                                                                             
+                                                                                                                             
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+                    
 
 ## Map
 
