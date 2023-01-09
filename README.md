@@ -31,6 +31,11 @@ Species of flowering cherries
 <param ve-compare 
        url="Prunus_serotina.jpg">
 
+<param ve-compare curtain
+       url="Prunus_serrulata.jpg">
+<param ve-compare
+       url="Prunus_x_yedoensis.jpg">
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
