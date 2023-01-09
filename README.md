@@ -3,7 +3,7 @@
 <param ve-config 
        title="Sakura"
        author="JSTOR Labs team"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/6b/Cherry_blossom_flowers_2.jpg" 
+       banner="
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -21,6 +21,17 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
+                                                                                                                             
+Species of flowering cherries 
+                                                                                                                             
+<param ve-compare curtain
+       manifest="Prunus_avium.jpg">
+<param ve-compare curtain
+       manifest="Prunus_serotina.jpg">    
+<param ve-compare curtain
+       manifest="Prunus_serrulata.jpg">                                        
+<param ve-compare curtain
+       manifest="Prunus_x_yedoensis.jpg">                                     
 
 ## Image
 
@@ -31,7 +42,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg"
+       fit="contain">
 
 ## Map
 
