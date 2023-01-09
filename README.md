@@ -27,13 +27,13 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 Species of flowering cherries 
                                                                                                                              
 <param ve-compare curtain
-       manifest="Prunus_avium.jpg">
+       url="Prunus_avium.jpg">
 <param ve-compare curtain
-       manifest="Prunus_serotina.jpg">    
+       url="Prunus_serotina.jpg">    
 <param ve-compare curtain
-       manifest="Prunus_serrulata.jpg">                                        
+       url="Prunus_serrulata.jpg">                                        
 <param ve-compare curtain
-       manifest="Prunus_x_yedoensis.jpg">  
+       url="Prunus_x_yedoensis.jpg">  
 
 ## Image
 
