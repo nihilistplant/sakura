@@ -32,8 +32,6 @@ Species of flowering cherries
        url="Prunus_serotina.jpg">    
 <param ve-compare 
        url="Prunus_serrulata.jpg">
-<param ve-compare
-       url="Prunus_x_yedoensis.jpg">
 
 ## Image
 
