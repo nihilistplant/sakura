@@ -22,16 +22,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
                                                                                                                              
-Species of flowering cherries 
-                                                                                                                             
-<param ve-compare curtain
-       manifest="Prunus_avium.jpg">
-<param ve-compare curtain
-       manifest="Prunus_serotina.jpg">    
-<param ve-compare curtain
-       manifest="Prunus_serrulata.jpg">                                        
-<param ve-compare curtain
-       manifest="Prunus_x_yedoensis.jpg">                                     
+                                 
 
 ## Image
 
@@ -44,6 +35,17 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg"
        fit="contain">
+                    
+Species of flowering cherries 
+                                                                                                                             
+<param ve-compare curtain
+       manifest="Prunus_avium.jpg">
+<param ve-compare curtain
+       manifest="Prunus_serotina.jpg">    
+<param ve-compare curtain
+       manifest="Prunus_serrulata.jpg">                                        
+<param ve-compare curtain
+       manifest="Prunus_x_yedoensis.jpg">    
 
 ## Map
 
