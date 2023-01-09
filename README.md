@@ -3,7 +3,7 @@
 <param ve-config 
        title="Sakura"
        author="JSTOR Labs team"
-       banner="
+       banner="Cherry_blossom_flowers_2.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
