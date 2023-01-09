@@ -3,7 +3,7 @@
 <param ve-config 
        title="Sakura"
        author="JSTOR Labs team"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/8f/Miharu_Miharu-Takizakura_Front_1.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/6/6b/Cherry_blossom_flowers_2.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
