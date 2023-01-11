@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# sakura storytellers
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
@@ -23,12 +23,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Basic usage
 
 ## Flowering cherry tree species
-
-Species of flowering cherries 
-                                                                                                                             
-
        
-All cherry trees flower, even if only a few are noted and cultivated for their bloom, and even those not commonly celebrated as cherry blossoms have often been planted for the ornamental elegance of their flowers along with the other useful qualities of their fruits, shoots, roots, and bark. Though less well-known than the East Asian ornamental species, <span eid="Q158987">black cherry</span> was [used by many American Indigenous nations](http://naeb.brit.org/uses/search/?string=prunus+serotina) for food, medicine, and woodworking, including the Cherokee, Potawatomi, and Shinnecock peoples. Sweet cherry was used similarly by the ancient peoples of the Mediterranean region and Southeastern Europe, for food as well as for diuretic, anti-bacterial, and anti-inflammatory medicine. Several species of 사쿠라나무 (sakuranamu, or flowering cherry trees) were also prominent in Korean folk medicine, used to treat a range of ailments including asthma, allergies, cough, heart failure, and viral disease. As such, cherry blossoms appeared in diet and medicine at places of tension or transformation among living things; they sustained life in the form of jam, wine, and preserve but also as disinfectant, vasorelaxant, diuretic, and detoxifier.
+All cherry trees flower, even if only a few are noted and cultivated for their bloom, and even those not commonly celebrated as cherry blossoms have often been planted for the ornamental elegance of their flowers along with the other useful qualities of their fruits, shoots, roots, and bark. Though less well-known than the East Asian ornamental species, <span eid="Q158987">black cherry</span> was [used by many American Indigenous nations](http://naeb.brit.org/uses/search/?string=prunus+serotina) for food, medicine, and woodworking, including the Cherokee, Potawatomi, and Shinnecock peoples. <span eid="Q165137">Sweet cherry<span> was used similarly by the ancient peoples of the Mediterranean region and Southeastern Europe, for food as well as for diuretic, anti-bacterial, and anti-inflammatory medicine. Several species of 사쿠라나무 (sakuranamu, or flowering cherry trees) were also prominent in Korean folk medicine, used to treat a range of ailments including asthma, allergies, cough, heart failure, and viral disease. As such, cherry blossoms appeared in diet and medicine at places of tension or transformation among living things; they sustained life in the form of jam, wine, and preserve but also as disinfectant, vasorelaxant, diuretic, and detoxifier.
 
 <param ve-compare curtain
        url="Prunus_avium.jpg"
