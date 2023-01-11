@@ -29,11 +29,13 @@ All cherry trees flower, even if only a few are noted and cultivated for their b
 <param ve-compare curtain
        url="Prunus_avium.jpg"
        label="P. avium"
-       license="public domain">
+       license="public domain"
+       fit="contain">
 <param ve-compare 
        url="Prunus_serotina.jpg"
        label="P. serotina"
-       license="public domain">
+       license="public domain"
+       fit="contain">
        
 
 ## Reverence + Use
