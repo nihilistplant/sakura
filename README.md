@@ -28,10 +28,31 @@ All cherry trees flower, even if only a few are noted and cultivated for their b
 
 <param ve-compare curtain
        url="Prunus_avium.jpg"
-       label="P. avium">
+       label="P. avium"
+       license="public domain">
 <param ve-compare 
        url="Prunus_serotina.jpg"
-       label="P. serotina">
+       label="P. serotina"
+       license="public domain">
+       
+
+## Reverence + Use
+
+The ancient Japanese were the first to watch sakura, which they saw as the seat of the mountain deity of rice paddies and a conduit for the souls of the dead to pass from this realm. Through this they came to understand the trees as markers of seasonal and spiritual cycles, looking to the timing of cherry blossom bloom as a bringer of spring as well as to forecast conditions for the autumn rice harvest and the length of winter, speaking to an understanding of flowering as both an environmental and mystical process. 
+
+
+This reverence and regard for sakura remained despite the physical, social, and geopolitical transformation of the land where they grew: hanami, or cherry blossom viewing, began as a ritual in honor of the sacred cycles of life and grew into the countless modern iterations of celebration seen around the world today, most often including the drinking of sake as well as singing, dancing, feasting, art-making, and showcasing of hybrid tree varieties. The rush of millions of hopeful viewers and festivalgoers chasing falling pink petals now figures heavily into springtime tourist economies across Japan as well as in cities from Washington, D.C. to Auckland, Hamburg to Busan. '
+<param ve-compare curtain
+       url="Kano_Naganobu_Merrymaking_Under_the_Cherry_Blossoms.jpg"
+       label="Ancient celebration of hanami"
+       description="Merrymaking Under the Cherry Blossoms, painting by Kano Naganobu"
+       license="public domain">
+<param ve-compare
+       url="Hanami_in_Yoyogi_Park_(2019).jpg"
+       label="Modern celebration of hanami, Yoyogi Park, 2019"
+       license="public domain">
+
+
 
 Though less well-known than the East Asian ornamental species, <span eid="Q158987">black cherry</span> was [used by many American Indigenous nations](http://naeb.brit.org/uses/search/?string=prunus+serotina) for food, medicine, and woodworking, including the Cherokee, Potawatomi, and Shinnecock peoples. <span eid="Q165137">Sweet cherry</span> was used similarly by the ancient peoples of the Mediterranean region and Southeastern Europe, for food as well as for diuretic, anti-bacterial, and anti-inflammatory medicine. Several species of 사쿠라나무 (sakuranamu, or flowering cherry trees) were also prominent in Korean folk medicine, used to treat a range of ailments including asthma, allergies, cough, heart failure, and viral disease. As such, cherry blossoms appeared in diet and medicine at places of tension or transformation among living things; they sustained life in the form of jam, wine, and preserve but also as disinfectant, vasorelaxant, diuretic, and detoxifier.
 
