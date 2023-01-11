@@ -49,9 +49,9 @@ Sakura (さくら/ 桜) is just one of many names for flowering cherry trees, pa
 
 Black cherry shifted in use over the course of American colonization, as forest management practices changed drastically and the traditional livelihoods of indigenous peoples were threatened. The species was one of the very first brought from North America to Europe, appearing in cultivation in Paris in 1623 and used as an ornamental until the late 18th and 19th centuries, when it became a target of interest for timber production. _P. serotina_ was widely planted for its ability to grow fast and well under a range of conditions, including on poor soils which the trees could improve with their nutritious and quickly-decomposing leaf litter. Though the species began to grow spontaneously as early as 1825, its fruits popular among seed-dispersing birds and mammals, it was not until the late 1900s that many began to note the spread of dense black cherry stands and characterize its “aggressive invasiveness,” which may well have been an effect of the original planting practice.   
 <param ve-image
+       url="Prunus_serotina_illustration.jpg"
        label="P. serotina illustration"
-       license="public domain"
-       url="Prunus_serotina_illustration.jpg">
+       license="public domain">
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
