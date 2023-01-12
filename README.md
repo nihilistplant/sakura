@@ -57,7 +57,7 @@ This reverence and regard for sakura remained despite the physical, social, and 
        license="public domain"
        fit="contain">
 <param ve-compare
-       url="Hanami_in_Yoyogi_Park_(2019).jpg"
+       url="hanami_in_yoyogi_park_edit.jpg"
        label="Modern celebration of hanami, Yoyogi Park, 2019"
        license="public domain"
        fit="contain">
