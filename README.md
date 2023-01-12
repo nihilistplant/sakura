@@ -52,15 +52,9 @@ The ancient Japanese were the first to watch sakura, which they saw as the seat 
 This reverence and regard for sakura remained despite the physical, social, and geopolitical transformation of the land where they grew: hanami, or cherry blossom viewing, began as a ritual in honor of the sacred cycles of life and grew into the countless modern iterations of celebration seen around the world today, most often including the drinking of sake as well as singing, dancing, feasting, art-making, and showcasing of hybrid tree varieties. The rush of millions of hopeful viewers and festivalgoers chasing falling pink petals now figures heavily into springtime tourist economies across Japan as well as in cities from Washington, D.C. to Auckland, Hamburg to Busan.
 
 <param ve-compare curtain
-       url="Kano_Naganobu_Merrymaking_Under_the_Cherry_Blossoms.jpg"
-       label="Ancient celebration of hanami"
-       license="public domain"
-       fit="contain">
+       url="Kano_Naganobu_Merrymaking_Under_the_Cherry_Blossoms.jpg">
 <param ve-compare
-       url="hanami_in_yoyogi_park_edit.jpg"
-       label="Modern celebration of hanami, Yoyogi Park, 2019"
-       license="public domain"
-       fit="contain">
+       url="hanami_in_yoyogi_park_edit.jpg">
 
 
 
