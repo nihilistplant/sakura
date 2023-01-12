@@ -67,6 +67,11 @@ Though less well-known than the East Asian ornamental species, <span eid="Q15898
 
        
 These indigenous uses of flowering cherries were typically matched with a spiritual component through which the trees served as an intermediary between life and death, seen in Cherokee teachings of the reciprocal relationship between humans and life-giving trees as well as in the funeral rites of early Mesolithic Europeans. Across three continents, cherry trees and their offerings to humans were treated with spiritual reverence, understood as markers of transformation in life at the level of cells and organs as well as in multispecies relationships, the ongoing shifts in the balance of forces that produce living bodies in interconnection. In the many societies where they appear, these trees have imparted healing and nourishment as well as wisdom about the turning of the universe.
+<param ve-image
+       url="evening_glow_at_koganei_border.jpg"
+       license="public domain"
+       description="Evening Glow at Koganei Border by Utagawa Hiroshige, 1797-1858"
+       label="Inscription: poem by Taihaido Donsho. The glow of sunset at the end of a cloudy spring day / foretells tomorrow's weather in Koganei, / where cherry blossoms are in full bloom.">
 
 
 ## Naming
