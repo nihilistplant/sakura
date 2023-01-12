@@ -53,11 +53,13 @@ This reverence and regard for sakura remained despite the physical, social, and 
 <param ve-compare curtain
        url="Kano_Naganobu_Merrymaking_Under_the_Cherry_Blossoms.jpg"
        label="Ancient celebration of hanami"
-       license="public domain">
+       license="public domain"
+       fit="contain">
 <param ve-compare
        url="Hanami_in_Yoyogi_Park_(2019).jpg"
        label="Modern celebration of hanami, Yoyogi Park, 2019"
-       license="public domain">
+       license="public domain"
+       fit="contain">
 
 
 
