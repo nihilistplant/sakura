@@ -71,7 +71,8 @@ These indigenous uses of flowering cherries were typically matched with a spirit
        url="evening_glow_at_koganei_border.jpg"
        license="public domain"
        description="Evening Glow at Koganei Border by Utagawa Hiroshige, 1797-1858"
-       label="Inscription: poem by Taihaido Donsho. The glow of sunset at the end of a cloudy spring day / foretells tomorrow's weather in Koganei, / where cherry blossoms are in full bloom.">
+       label="Inscription: poem by Taihaido Donsho. The glow of sunset at the end of a cloudy spring day / foretells tomorrow's weather in Koganei, / where cherry blossoms are in full bloom."
+       fit="contain">
 
 
 ## Naming
