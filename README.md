@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# sakura storytellers
+# cherry blossoms as teachers of tension + transfornation
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
@@ -45,7 +45,8 @@ The ancient Japanese were the first to watch sakura, which they saw as the seat 
        url="Yoshitoshi_The_Spirit_of_the_Komachi_Cherry_Tree.jpg"
        license="public domain"
        label="Yoshitoshi, one spiritual incarnation of a cherry tree in Japan"
-       description="painting of Yoshitoshi, spirit of the Komachi Cherry Tree">
+       description="painting of Yoshitoshi, spirit of the Komachi Cherry Tree"
+       fit="contain">
 
 
 This reverence and regard for sakura remained despite the physical, social, and geopolitical transformation of the land where they grew: hanami, or cherry blossom viewing, began as a ritual in honor of the sacred cycles of life and grew into the countless modern iterations of celebration seen around the world today, most often including the drinking of sake as well as singing, dancing, feasting, art-making, and showcasing of hybrid tree varieties. The rush of millions of hopeful viewers and festivalgoers chasing falling pink petals now figures heavily into springtime tourist economies across Japan as well as in cities from Washington, D.C. to Auckland, Hamburg to Busan.
@@ -80,6 +81,7 @@ Black cherry shifted in use over the course of American colonization, as forest 
        url="Prunus_serotina_illustration.jpg"
        label="P. serotina illustration"
        license="public domain">
+
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
