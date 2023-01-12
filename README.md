@@ -40,7 +40,7 @@ All cherry trees flower, even if only a few are noted and cultivated for their b
 
 ## Reverence + Use
 
-The ancient Japanese were the first to watch sakura, which they saw as the seat of the mountain deity of rice paddies and a conduit for the souls of the dead to pass from this realm. Through this they came to understand the trees as markers of seasonal and spiritual cycles, looking to the timing of cherry blossom bloom as a bringer of spring as well as to forecast conditions for the autumn rice harvest and the length of winter, speaking to an understanding of flowering as both an environmental and mystical process. 
+The ancient Japanese were the first to watch sakura, which they saw as the seat of the mountain deity of rice paddies and a conduit for the souls of the dead to pass from this realm. Through this they came to understand the trees as markers of seasonal and spiritual cycles, looking to the timing of cherry blossom bloom as a bringer of spring as well as to forecast conditions for the autumn rice harvest and the length of winter, speaking to an understanding of flowering as both an environmental and mystical process.
 <param ve-image
        url="Yoshitoshi_The_Spirit_of_the_Komachi_Cherry_Tree.jpg"
        license="public domain"
