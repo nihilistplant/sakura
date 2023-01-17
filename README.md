@@ -81,7 +81,7 @@ Sakura (さくら/ 桜) is just one of many names for flowering cherry trees, pa
        
 native names
 <param ve-iframe
-       src="dspace.library.uvic.ca/bitstream/handle/1828/5091/Appendix 2B%20 UVicSpace Indigenous names of native species_BIG.pdf&output=embed">
+       src="dspace.library.uvic.ca/bitstream/handle/1828/5091/Appendix 2B%20 UVicSpace Indigenous names of native species_BIG.pdf">
                     
 
 ## Introduction + "Invasion"
