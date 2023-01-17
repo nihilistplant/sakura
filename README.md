@@ -91,6 +91,13 @@ Black cherry shifted in use over the course of American colonization, as forest 
        label="P. serotina illustration"
        license="public domain">
 
+tidal basin cherry blossoms
+<param ve-knightlab-timeline
+       source="11jR2HUOdJdsv25gjHoqKC6GPVy3WO3jzFuo82YvmxBw"
+       timenav-position="bottom"
+       hash-bookmark="false"
+       initial-zoom="1"
+       height="750">
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
